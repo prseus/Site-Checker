@@ -1,0 +1,41 @@
+# COMMENTS ARE WRITTEN WITH \#. THEY WILL BE AUTOMATICALLY DISCARDED UPON FILE LOADING.
+# PRSEUS SITECHECKER
+
+127.0.0.1 discordapp.com
+127.0.0.1 discord.com
+127.0.0.1 dl.discordapp.net
+127.0.0.1 blog.discord.com
+127.0.0.1 media.discordapp.net
+127.0.0.1 images-ext-2.discordapp.net
+127.0.0.1 images-ext-1.discordapp.net
+127.0.0.1 url9177.discordapp.com
+127.0.0.1 canary-api.discordapp.com
+127.0.0.1 cdn-ptb.discordapp.com
+127.0.0.1 ptb.discordapp.com
+127.0.0.1 status.discordapp.com
+127.0.0.1 cdn-canary.discordapp.com
+127.0.0.1 cdn.discordapp.com
+127.0.0.1 streamkit.discordapp.com
+127.0.0.1 i18n.discordapp.com
+127.0.0.1 url9624.discordapp.com
+127.0.0.1 url7195.discordapp.com
+127.0.0.1 merch.discordapp.com
+127.0.0.1 printer.discordapp.com
+127.0.0.1 canary.discordapp.com
+127.0.0.1 apps.discordapp.com
+127.0.0.1 pax.discordapp.com
+127.0.0.1 status.discord.com
+127.0.0.1 streamkit.discord.com
+127.0.0.1 feedback.discord.com
+127.0.0.1 click.discord.com
+127.0.0.1 pax.discord.com
+127.0.0.1 printer.discord.com
+127.0.0.1 ptb.discord.com
+127.0.0.1 canary.discord.com
+127.0.0.1 canary.discord.com
+127.0.0.1 bugs.discord.com
+127.0.0.1 i18n.discord.com
+127.0.0.1 support.discord.com
+127.0.0.1 safety.discord.com
+127.0.0.1 support-dev.discord.com
+127.0.0.1 discord.mod.io
